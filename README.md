@@ -2,7 +2,6 @@
 By: Imani Thompson
 # Overview
 This project analyses which job opening features Indeed should consider when determining whether or not they have a fraudulent job listed. Descriptive analysis of job posting predictions shows that job descriptions and job requirements together have a higher potential of identifying fraudulent activity. This was determine by the final model which had a 97% accuracy score. Natural language processing techniques were used on this binary classification model. Indeed can use these findings to get rid of fraudulent jobs on their website or give vistor direct access to my website created to predict the status.
-
 # Business Understanding
 My Stakeholder is Indeed, a worldwide employmeny website, that has thousands of job postings. An issue that they are encountering is the amount of fraudulent job postings. I was hired by this company to create a model to determine the amount of fraudulent job postings on their website. My predictions are important from a business prospective because I will be analysing actual data to get my answer and not just taking educated guesses. Even though I will not be modeling with Indeed data, it will still be useful to them because it uses the same concept. Determining whether or not a job opening is fruadulent is considered a binary classification, therefore it will require a binary classification model. Since job postings consist of a good bit of text I will be using natural language processing to model with text.
 # Data Understanding
